@@ -1,0 +1,5 @@
+diffusers==0.10.2
+omegaconf==2.2.3
+Pillow==9.3.0
+torch==1.12.1+cu113
+transformers==4.19.2
